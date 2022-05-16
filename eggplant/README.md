@@ -1,1 +1,1 @@
-# cell2location
+# eggplant
