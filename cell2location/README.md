@@ -1,8 +1,12 @@
 # cell2location
 
+### Colab
+
 This notebook can be openned in Google Colab [![in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BayraktarLab/cell2location/blob/master/docs/notebooks/cell2location_tutorial.ipynb). When in Colab simply follow code cells - not additional installation is needed.
 
-For running this tutorial on your system you need to install cell2location in your conda environment with `pip install git+https://github.com/BayraktarLab/cell2location.git#egg=cell2location[tutorials]`. If you encounter any issues we suggest creating a separate conda environment for installing cell2location as shown below.
+### Your system
+
+For running this tutorial on your system you need to install cell2location in your conda environment with `pip install git+https://github.com/BayraktarLab/cell2location.git#egg=cell2location[tutorials]`. If you encounter any issues we suggest creating a separate conda environment for using cell2location as shown below:
 
 Create conda environment and install `cell2location` package
 
