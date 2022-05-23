@@ -1,6 +1,6 @@
 # eggplant
 
-This sub directory contains the files necessary to run the `eggplant` tutorial.
+This subdirectory contains the files necessary to run the `eggplant` tutorial.
 There's a single notebook `2022-05-24-scog.ipynb` (found in the folder
 `notebooks`) that outlines the analysis of two different data sets: (i) the
 developmental heart and (ii) the mouse brain (with different perturbations).
